@@ -1,0 +1,3 @@
+[ 2023-04-21 17:52:45,653 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-04-21 17:52:45,657 ] 224 werkzeug - INFO -  * Debugger PIN: 190-977-271
+[ 2023-04-21 17:52:55,820 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\mdqua\\Documents\\21-04\\diamond_price_predect\\app.py', reloading

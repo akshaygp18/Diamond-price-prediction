@@ -1,5 +1,0 @@
-[ 2023-04-21 16:01:35,247 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
-[ 2023-04-21 16:01:42,023 ] 25 root - INFO - Data Ingestion methods Starts
-[ 2023-04-21 16:01:42,377 ] 28 root - INFO - Dataset read as pandas Dataframe
-[ 2023-04-21 16:01:44,501 ] 32 root - INFO - Train test split
-[ 2023-04-21 16:01:46,830 ] 38 root - INFO - Ingestion of Data is completed

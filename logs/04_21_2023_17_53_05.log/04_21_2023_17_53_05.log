@@ -1,0 +1,18 @@
+[ 2023-04-21 17:53:07,100 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-04-21 17:53:07,103 ] 224 werkzeug - INFO -  * Debugger PIN: 190-977-271
+[ 2023-04-21 17:53:47,477 ] 224 werkzeug - INFO - 127.0.0.1 - - [21/Apr/2023 17:53:47] "GET / HTTP/1.1" 200 -
+[ 2023-04-21 17:53:47,540 ] 224 werkzeug - INFO - 127.0.0.1 - - [21/Apr/2023 17:53:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-04-21 17:54:10,875 ] 224 werkzeug - INFO - 127.0.0.1 - - [21/Apr/2023 17:54:10] "GET /predict HTTP/1.1" 200 -
+[ 2023-04-21 17:54:14,386 ] 224 werkzeug - INFO - 127.0.0.1 - - [21/Apr/2023 17:54:14] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-04-21 17:54:14,418 ] 224 werkzeug - INFO - 127.0.0.1 - - [21/Apr/2023 17:54:14] "GET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2023-04-21 17:54:14,431 ] 224 werkzeug - INFO - 127.0.0.1 - - [21/Apr/2023 17:54:14] "GET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2023-04-21 17:54:14,477 ] 224 werkzeug - INFO - 127.0.0.1 - - [21/Apr/2023 17:54:14] "GET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2023-04-21 17:54:14,487 ] 224 werkzeug - INFO - 127.0.0.1 - - [21/Apr/2023 17:54:14] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-04-21 17:54:39,830 ] 67 root - INFO - Dataframe Gathered
+[ 2023-04-21 17:54:39,963 ] 224 werkzeug - INFO - 127.0.0.1 - - [21/Apr/2023 17:54:39] "POST /predict HTTP/1.1" 200 -
+[ 2023-04-21 17:55:37,741 ] 224 werkzeug - INFO - 127.0.0.1 - - [21/Apr/2023 17:55:37] "GET /predict HTTP/1.1" 200 -
+[ 2023-04-21 17:59:05,673 ] 224 werkzeug - INFO - 127.0.0.1 - - [21/Apr/2023 17:59:05] "GET /predict HTTP/1.1" 200 -
+[ 2023-04-21 17:59:18,167 ] 67 root - INFO - Dataframe Gathered
+[ 2023-04-21 17:59:18,178 ] 224 werkzeug - INFO - 127.0.0.1 - - [21/Apr/2023 17:59:18] "POST /predict HTTP/1.1" 200 -
+[ 2023-04-21 17:59:24,755 ] 224 werkzeug - INFO - 127.0.0.1 - - [21/Apr/2023 17:59:24] "GET /predict HTTP/1.1" 200 -
+[ 2023-04-21 18:00:01,959 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\mdqua\\Documents\\21-04\\diamond_price_predect\\app.py', reloading
